@@ -18,7 +18,8 @@ Designed and deployed an automated inbound lead distribution system in HubSpot t
 4. **Conditional Branching:** Checks for recorded contact activities (logged calls, sent emails).
 5. **Escalation Path:** Updates `Lead SLA Status` to `Breached` if unserviced and triggers internal manager notifications.
 
-![Workflow Architecture](./image.png)
+![Workflow Architecture](./Screenshot_20261004-090633.png)
+
 
 ---
 
@@ -27,5 +28,6 @@ Designed and deployed an automated inbound lead distribution system in HubSpot t
 * **Dashboard Name:** `RevOps: SLA & Lead Routing Engine`
 * **Macro Metric:** `SLA Compliance Breakdown` (Donut Chart displaying proportion of Met vs. Breached SLAs).
 * **Operational Queue:** `Unserviced SLA Breaches` (Unsummarized Table listing breached leads for immediate triage).
+![Live Executive Dashboard](./Screenshot_20261005-082652.png)
 
-![Live Executive Dashboard](./Screenshot_20261005-095430.png)
+
