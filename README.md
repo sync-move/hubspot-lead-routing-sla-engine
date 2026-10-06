@@ -30,7 +30,7 @@ Designed and deployed an automated inbound lead distribution system in HubSpot t
 * **Dashboard Name:** `RevOps: SLA & Lead Routing Engine`
 * **Macro Metric:** `SLA Compliance Breakdown` (Donut Chart displaying proportion of Met vs. Breached SLAs).
 * **Operational Queue:** `Unserviced SLA Breaches` (Unsummarized Table listing breached leads for immediate triage).
-![Live Executive Dashboard](./Screenshot_20261004-090633.png)
+![Live Executive Dashboard](./Screenshot_20261004-090533.png)
 
 
 
